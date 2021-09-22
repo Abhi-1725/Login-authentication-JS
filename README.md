@@ -2,7 +2,8 @@
 
 > This is a demo version of Login Authentation page using HTMl-CSS & JavaScript
 
-![image](login-demo.JPG)
+![image](https://user-images.githubusercontent.com/33417745/134402405-72f0dc8f-055c-4f41-9c09-f015f99d9455.png)
+
 
 
 Additional description about the project and its features.
